@@ -1,6 +1,0 @@
-C:\Users\Kab-35-16\source\repos\Task_2\bin\Debug\Task_2.exe.config
-C:\Users\Kab-35-16\source\repos\Task_2\bin\Debug\Task_2.exe
-C:\Users\Kab-35-16\source\repos\Task_2\bin\Debug\Task_2.pdb
-C:\Users\Kab-35-16\source\repos\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
-C:\Users\Kab-35-16\source\repos\Task_2\obj\Debug\Task_2.exe
-C:\Users\Kab-35-16\source\repos\Task_2\obj\Debug\Task_2.pdb
