@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\bin\Debug\Task 4 pr4.exe.config
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\bin\Debug\Task 4 pr4.exe
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\bin\Debug\Task 4 pr4.pdb
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\obj\Debug\Task 4 pr40.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\obj\Debug\Task 4 pr4.exe
+C:\Users\Kab-35-16\source\repos\Task 4 pr4\obj\Debug\Task 4 pr4.pdb
